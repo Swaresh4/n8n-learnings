@@ -27,7 +27,7 @@
 - 50% refund if canceled by **June 1, 2026**
 - No refunds after **June 1, 2026**
 
-**Contact for Issues:** [registration@techinnovate2026.com](mailto:registration@techinnovate2026.com) or call **(415) 555-0123**
+**Contact for Issues:** [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) or call **(415) 555-0123**
 
 ---
 
