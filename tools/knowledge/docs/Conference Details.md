@@ -2,12 +2,12 @@
 
 ## 1. Conference Overview
 
-- **Event Name:** Tech Innovate 2026
+- **Event Name:** FLo 2026
 - **Date:** June 15–17, 2026
-- **Location:** San Francisco Convention Center, 123 Innovation Drive, San Francisco, CA 94103
+- **Location:** Nagarro Office Plot 6B, 13, Sub. Major Laxmi Chand Rd, Maruti Udyog, Sector 18, Sarhol, Gurugram, Haryana 122015.
 - **Description:** A 3-day conference focused on emerging technologies, featuring keynote speakers, workshops, and networking opportunities.
 - **Target Audience:** Tech professionals, developers, entrepreneurs, and students.
-- **Official Website:** [techinnovate2026.com](https://techinnovate2026.com)
+- **Official Website:** [Flo2026.com](https://www.nagarro.com/en/)
 
 ---
 
@@ -20,7 +20,7 @@
 * **VIP Pass:** $999 *(includes exclusive sessions and dinner with speakers)*
 
 - **Registration Deadline:** May 31, 2026
-- **How to Register:** Visit [techinnovate2026.com/register](https://techinnovate2026.com/register) or use the mobile app **Tech Innovate 2026**.
+- **How to Register:** Please reach out to your Operational Guide/DM**.
 
 **Cancellation Policy:**
 - Full refund if canceled by **May 15, 2026**
@@ -49,21 +49,21 @@
 * **9:00 AM – 11:00 AM:** Closing Keynote *(Main Hall, Hall A)*
 * **12:00 PM:** Conference Ends
 
-**Full Schedule:** [techinnovate2026.com/schedule](https://techinnovate2026.com/schedule) or in the mobile app.
+**Full Schedule:** June215-June17.
 
 ---
 
 ## 4. Venue Information
 
-**Address:** San Francisco Convention Center, 123 Innovation Drive, San Francisco, CA 94103
+**Address:** Nagarro Office Plot 6B, 13, Sub. Major Laxmi Chand Rd, Maruti Udyog, Sector 18, Sarhol, Gurugram, Haryana 122015
 
-**Parking:** On-site parking available for **$20/day**; public lots nearby.
+**Parking:** On-site parking available; public lots nearby.
 
 **Public Transport:** Accessible via **BART (Powell Street Station)** and **Muni bus lines 5, 9, and 21**.
 
 **Accessibility:** Wheelchair ramps, elevators, and ASL interpreters available upon request.
 
-Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026.com) by **June 1, 2026**.
+Email [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) by **June 1, 2026**.
 
 ---
 
@@ -71,15 +71,15 @@ Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026
 
 **Keynote Speakers:**
 
-* *Jane Smith* – AI Ethics Expert
-* *Mark Johnson* – CEO, FutureTech
+* *Vinay Gupta* – AI Ethics Expert
+* *Manas Human* – CEO, FutureTech
 
 **Popular Workshops:**
 
-* *AI Innovations* — Led by Dr. Jane Smith, **June 15, 11:00 AM**, Room A, Hall A
-* *Coding Bootcamp* — Led by Sarah Lee, **June 16, 2:00 PM**, Room B, Hall B
+* *AI Innovations* — Led by Komal Jain, **June 15, 11:00 AM**, Room A, Hall A
+* *Coding Bootcamp* — Led by Viyom Jain, **June 16, 2:00 PM**, Room B, Hall B
 
-**Session Sign-Up:** Pre-registration required via the mobile app or website.
+**Session Sign-Up:** Pre-registration required via Ginger.
 
 ---
 
@@ -87,7 +87,7 @@ Email [accessibility@techinnovate2026.com](mailto:accessibility@techinnovate2026
 
 ### **Overview**
 
-The San Francisco Convention Center features two exhibition halls (**Hall A** and **Hall B**) hosting keynotes, workshops, and exhibitor booths.
+Nagarro Office features two exhibition halls (**Hall A** and **Hall B**) hosting keynotes, workshops, and exhibitor booths.
 
 ### **Hall A**
 
@@ -148,18 +148,18 @@ Setup guidelines sent post-booking. Setup day: **June 14, 2026 (8:00 AM – 6:00
 
 ## 9. Support Contacts
 
-* **General Inquiries:** [info@techinnovate2026.com](mailto:info@techinnovate2026.com) | (415) 555-0123
-* **Sales/Booth Inquiries:** [sales@techinnovate2026.com](mailto:sales@techinnovate2026.com) | (415) 555-0123
-* **Technical Support (App/Website):** [techsupport@techinnovate2026.com](mailto:techsupport@techinnovate2026.com)
+* **General Inquiries:** [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) | (415) 555-0123
+* **Sales/Booth Inquiries:** [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) | (415) 555-0123
+* **Technical Support (App/Website):** [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com)
 * **Emergency On-Site:** Visit the info desk or call **(415) 555-9999**
-* **Social Media:** [@TechInnovate2026](https://x.com/TechInnovate2026) on X, Instagram, and LinkedIn
+* **Social Media:** [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) on X, Instagram, and LinkedIn
 
 ---
 
 ## 10. Policies
 
 * **Code of Conduct:** No harassment, discrimination, or disruptive behavior.
-  Report issues to staff or email [conduct@techinnovate2026.com](mailto:conduct@techinnovate2026.com).
+  Report issues to staff or email [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com).
 * **Photography:** Attendees consent to being photographed unless opting out at registration.
 * **Health & Safety:** Masks optional; hand sanitizer stations throughout venue.
 * **Booth Policies:** No modifications to booth structures without approval; comply with fire safety regulations.
@@ -168,7 +168,7 @@ Setup guidelines sent post-booking. Setup day: **June 14, 2026 (8:00 AM – 6:00
 
 ## 11. Mobile App Features
 
-**App Name:** Tech Innovate 2026 (iOS & Android)
+**App Name:** Flo 2026 (iOS & Android)
 **Functions:**
 
 * View full schedule
