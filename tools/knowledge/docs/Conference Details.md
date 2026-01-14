@@ -1,4 +1,4 @@
-# Tech Innovate 2026 Conference Details
+# FLO 2026 Conference Details
 
 ## 1. Conference Overview
 
