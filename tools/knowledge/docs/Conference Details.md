@@ -2,12 +2,12 @@
 
 ## 1. Conference Overview
 
-- **Event Name:** FLo 2026
+- **Event Name:** FLO 2026
 - **Date:** June 15–17, 2026
 - **Location:** Nagarro Office Plot 6B, 13, Sub. Major Laxmi Chand Rd, Maruti Udyog, Sector 18, Sarhol, Gurugram, Haryana 122015.
 - **Description:** A 3-day conference focused on emerging technologies, featuring keynote speakers, workshops, and networking opportunities.
 - **Target Audience:** Tech professionals, developers, entrepreneurs, and students.
-- **Official Website:** [Flo2026.com](https://www.nagarro.com/en/)
+- **Official Website:** [Nagarro.com](https://www.nagarro.com/en/)
 
 ---
 
