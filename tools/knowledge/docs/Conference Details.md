@@ -71,13 +71,13 @@ Email [swaresh.g@nagarro.com](mailto:swaresh.g@nagarro.com) by **June 1, 2026**.
 
 **Keynote Speakers:**
 
-* *Vinay Gupta* – AI Ethics Expert
-* *Manas Human* – CEO, FutureTech
+* *Vinay Gupta* – Salesforce Delivery Lead
+* *Manas Human* – CEO, Nagarro
 
 **Popular Workshops:**
 
 * *AI Innovations* — Led by Komal Jain, **June 15, 11:00 AM**, Room A, Hall A
-* *Coding Bootcamp* — Led by Viyom Jain, **June 16, 2:00 PM**, Room B, Hall B
+* *Coding Bootcamp* — Led by Bhavesh Kulkarni, **June 16, 2:00 PM**, Room B, Hall B
 
 **Session Sign-Up:** Pre-registration required via Ginger.
 
